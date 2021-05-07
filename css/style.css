@@ -1,0 +1,14 @@
+
+.bg-image {
+  background-image: url('./download.jpg'); 
+  background-repeat: no-repeat;
+  background-size:100%;
+  opacity: 0.6;
+  height: auto;
+   }
+
+.titulo {
+  color: black;
+  font-family: 'Cinzel', serif;
+  font-size: 24px;
+}

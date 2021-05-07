@@ -2,24 +2,24 @@
 
 ### Passo 1 ###
 
-- [ ] criar repositorio GIT
-- [ ] Baixar bootstrap
+- [x] criar repositorio GIT
+- [x] Baixar bootstrap
 
 ### Passo 2 ###
 
-- [ ] html Básico com bootstrap 
+- [x] html Básico com bootstrap 
 
 ### Passo 3 ###
 
-- [ ] Criar a section do conteúdo 
-- [ ] criar o conteúdo teste encapsulado em divs 
-- [ ] criar style.css e configurar o estilo dos nomes de classe
+- [x] Criar a section do conteúdo 
+- [x] criar o conteúdo teste encapsulado em divs 
+- [x] criar style.css e configurar o estilo dos nomes de classe
 
 ### Passo 4 ### 
 
-- [ ] anexar imagem, definindo tamanho alinhamento e bordas 
-- [ ] referenciar a imagem em alguma class <a 
-- [ ] alterar a fonte do body
+- [x] anexar imagem, definindo tamanho alinhamento e bordas 
+- [x] referenciar a imagem em alguma class <a 
+- [x] alterar a fonte do body
 
 ### Passo 5 ###
 
