@@ -23,13 +23,13 @@
 
 ### Passo 5 ###
 
-- [ ] criar uma section para um footer 
-- [ ] criar div class conteiner com h1 de teste 
-- [ ] associar uma imagem com padrões de dispositivo
+- [x] criar uma section para um footer 
+- [x] criar div class conteiner com h1 de teste 
+- [x] associar uma imagem com padrões de dispositivo
 
 ### Passo 6 ###
 
-- [ ] conectar botões de section id
-- [ ] codar o footer 
+- [x] conectar botões de section id
+- [x] codar o footer 
 
 dica :_ao usar grids criar na sequencia: container, row e col.. definindo o espaçamento da coluna. Lembrar também que pode ser associado a uma linha com coluna um grupo de conteúdos div, contendo imagem e texto_
